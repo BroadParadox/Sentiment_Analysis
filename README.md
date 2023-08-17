@@ -12,4 +12,4 @@ Following is the summary of what has been done:
 * Model Training using Deep Learning in Keras for separate: Simple Neural Net, CNN and LSTM Models and analyse model performance and results
 * Last, perform predictions on real IMDb movie reviews
   
-You can find the drive link for the above [here](https://drive.google.com/file/d/1klXlH0S7dqrkL7OpU9xsaviDziHzRpkL/view?usp=sharing).
+You can find the drive link for the above [here](https://drive.google.com/drive/folders/1BlsxijsSv12ERtwOeZfPlxI_SvZ9vF7v?usp=sharing).
